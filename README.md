@@ -308,3 +308,5 @@ After charging an email is sent to the user, and the variables regarding 'paymen
         "Vegetarian"
     ]
 }
+
+# All images thanks to google.
